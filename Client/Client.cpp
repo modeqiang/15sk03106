@@ -1,5 +1,5 @@
 // Client.cpp : Defines the class behaviors for the application.
-//
+// xxxxxxxx B2
 
 #include "stdafx.h"
 #include "Client.h"
